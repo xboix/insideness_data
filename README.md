@@ -9,7 +9,7 @@ by [K. Villalobos](https://github.com/kimvc7) (\*), [V. Štih](https://github.c
 
 ### Code
 
-* [small_images.py](https://github.com/xboix/insideness_data/blob/master/small_images.py): code to generate "small images" dataset (dataset in Section 5 in the paper)
+* [random_walk.py](https://github.com/xboix/insideness_data/blob/master/random_walk.py): code to generate "random_walk" dataset (dataset in Section 5 in the paper)
 
 * [Example.ipynb](https://github.com/xboix/insideness_data/blob/master/Example.ipynb): jupyter notebook with examples on how to use the code
 
@@ -17,7 +17,7 @@ by [K. Villalobos](https://github.com/kimvc7) (\*), [V. Štih](https://github.c
 
 ### Credits
 
-* [small_images.py](https://github.com/xboix/insideness_data/blob/master/small_images.py) was coded by V. Štih
+* [random_walk.py](https://github.com/xboix/insideness_data/blob/master/random_walk.py) was coded by V. Štih
 * [Example.ipynb](https://github.com/xboix/insideness_data/blob/master/Example.ipynb) was coded by S. Sundaram
 * The digs dataset was created by A. Ahmadinejad 
 * The spiral dataset was created by K. Villalobos
