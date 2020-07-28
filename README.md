@@ -2,7 +2,7 @@ This is part of the code to reproduce the results of the paper
 
 *Do Neural Networks for Segmentation Understand Insideness?* [\[pdf\]](https://cbmm.mit.edu/sites/default/files/publications/CBMM-Memo-105v2.pdf)
 
-by [K. Villalobos](https://github.com/kimvc7) (\*), [V. Štih](https://github.com/vilim) (\*), [A. Ahmadinejad](https://github.com/Amiineh) (\*), S. Sundaram, J. Dozier, A. Francl, F. Azevedo, T. Sasaki (+), X. Boix (+)
+by [K. Villalobos](https://github.com/kimvc7) (\*), [V. Štih](https://github.com/vilim) (\*), [A. Ahmadinejad](https://github.com/Amiineh) (\*), S. Sundaram, J. Dozier, A. Francl, F. Azevedo, T. Sasaki (+), [X. Boix](http://web.mit.edu/xboix/www/index.html) (+)
 
 (*) and (+) equal contribution 
 
