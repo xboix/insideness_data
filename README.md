@@ -15,6 +15,12 @@ by [K. Villalobos](https://github.com/kimvc7) (\*), [V. Štih](https://github.c
 
 * [data](https://github.com/xboix/insideness_data/tree/master/data): folder containing examples of the different datasets
 
+### Docker container
+
+```
+docker pull xboixbosch/tf
+```
+
 ### Credits
 
 * [random_walk.py](https://github.com/xboix/insideness_data/blob/master/random_walk.py) was coded by V. Štih
