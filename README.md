@@ -9,7 +9,7 @@ by K. Villalobos (\*),  V. Štih (\*), A. Ahmadinejad (\*), S. Sundaram, J. Doz
 
 ### Code
 
-* [small_images.py](https://github.com/xboix/insideness_data/blob/master/small_images.py): code to generate "small images" dataset (dataset in Section 5)
+* [small_images.py](https://github.com/xboix/insideness_data/blob/master/small_images.py): code to generate "small images" dataset (dataset in Section 5 in the paper)
 
 * [Example.ipynb](https://github.com/xboix/insideness_data/blob/master/Example.ipynb): jupyter notebook with examples on how to use the code
 
